@@ -1,6 +1,6 @@
 # Hi, I'm Ajay Ummadi
 
-Founder and Managing Partner of [MakerWorks Lab](https://makerworkslab.in/), a robotics and Physical AI maker space in Malad East, Mumbai. I teach Arduino, micro:bit, Tinkercad, electronics and robotics, and I build with Hugging Face's open-source [LeRobot](https://github.com/huggingface/lerobot).
+Co-founder and Managing Partner of [MakerWorks Lab](https://makerworkslab.in/), a robotics and Physical AI maker space in Malad East, Mumbai. I teach Arduino, micro:bit, Tinkercad, electronics and robotics, and I build with Hugging Face's open-source [LeRobot](https://github.com/huggingface/lerobot).
 
 ## What I'm building
 
